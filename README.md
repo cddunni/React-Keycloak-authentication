@@ -1,4 +1,4 @@
-# Implement a sample project integrating with Keycloak for authentication through OpenID
+# Implementation of a React project integrating with Keycloak for authentication through OpenID
 
 This is an extension of SME better Login screen. 
 When you click the Login button, you should be redirected to a Keycloak login page.
